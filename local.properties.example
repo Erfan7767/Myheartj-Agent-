@@ -1,0 +1,8 @@
+# Template — copy to local.properties (which is git-ignored) and fill in real values.
+# Get a free Gemini API key at: https://aistudio.google.com/apikey
+# sdk.dir is set automatically by Android Studio; adjust if you build from the CLI.
+sdk.dir=/absolute/path/to/Android/Sdk
+GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE
+# Primary model mandated by the product spec; the app auto-falls-back to other
+# Flash models at runtime if this one is not available for your key.
+GEMINI_MODEL=gemini-3.5-flash

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Irfan &amp; Elena</string>
+    <string name="tagline">Your dual AI voice agents</string>
+    <string name="hint_message">Message Irfan or Elena…</string>
+    <string name="status_listening">Listening…</string>
+    <string name="status_thinking">%1$s is thinking…</string>
+    <string name="status_thinking_both">Irfan &amp; Elena are working together…</string>
+    <string name="status_speaking">%1$s is speaking…</string>
+    <string name="mic_button_start">Start live voice conversation</string>
+    <string name="mic_button_stop">Stop listening</string>
+    <string name="stop_voice">Stop voice</string>
+    <string name="send">Send</string>
+    <string name="mode_auto">Auto</string>
+    <string name="mode_irfan">Irfan</string>
+    <string name="mode_elena">Elena</string>
+    <string name="mode_both">Both</string>
+    <string name="tools_title">Agent Tools</string>
+    <string name="tools_hint">Built-in tools plus tools the agents forged themselves via ToolForge. Forged tools are validated, saved permanently on this device, and immediately callable.</string>
+    <string name="forged_badge">forged</string>
+    <string name="delete">Delete</string>
+    <string name="settings_title">Settings</string>
+    <string name="api_key_label">Gemini API key</string>
+    <string name="api_key_helper">Get a free key at aistudio.google.com/apikey — it stays on this device only.</string>
+    <string name="api_key_banner">Add your free Gemini API key to enable the live connection to Google\'s servers.</string>
+    <string name="add_key">Add key</string>
+    <string name="model_label">Primary model</string>
+    <string name="model_helper">Tried first (official endpoint). If unavailable for your key, the app falls back automatically to other live Flash models.</string>
+    <string name="save">Save</string>
+    <string name="clear_conversation">Clear conversation</string>
+    <string name="clear_done">Conversation cleared</string>
+    <string name="mic_permission_rationale">Microphone access is required for live voice conversation. You can also type your messages.</string>
+    <string name="grant_permission">Grant microphone access</string>
+    <string name="empty_chat">Say hello to Irfan — or ask for Elena by name.</string>
+    <string name="note_tool_used">🔧 Tool used: %1$s</string>
+    <string name="note_tool_forged">⚒️ New tool forged: %1$s — validated, persisted and registered</string>
+    <string name="note_still_working">Still working on the previous task…</string>
+    <string name="copied">Copied</string>
+    <string name="artifact_chip">Artifact %1$d</string>
+    <string name="copy">Copy</string>
+    <string name="close">Close</string>
+    <string name="error_generic">Connection issue: %1$s</string>
+    <string name="error_key_missing">No API key configured — open Settings to add one.</string>
+    <string name="speech_unavailable">Voice recognition is not available on this device — text input still works fully.</string>
+</resources>

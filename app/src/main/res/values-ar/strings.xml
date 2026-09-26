@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عرفان وإيلينا</string>
+    <string name="tagline">وكيلان ذكيان بالصوت</string>
+    <string name="hint_message">اكتب إلى عرفان أو إيلينا…</string>
+    <string name="status_listening">أستمع إليك…</string>
+    <string name="status_thinking">جارٍ تفكير %1$s…</string>
+    <string name="status_thinking_both">عرفان وإيلينا يعملان معًا…</string>
+    <string name="status_speaking">جارٍ تحدث %1$s…</string>
+    <string name="mic_button_start">ابدأ المحادثة الصوتية الحية</string>
+    <string name="mic_button_stop">أوقف الاستماع</string>
+    <string name="stop_voice">إيقاف الصوت</string>
+    <string name="send">إرسال</string>
+    <string name="mode_auto">تلقائي</string>
+    <string name="mode_irfan">عرفان</string>
+    <string name="mode_elena">إيلينا</string>
+    <string name="mode_both">كلاهما</string>
+    <string name="tools_title">أدوات الوكلاء</string>
+    <string name="tools_hint">الأدوات المدمجة بالإضافة إلى أدوات صنعها الوكيلان بأنفسهما عبر «ToolForge». الأدوات المصنوعة تُتحقق وتُحفظ دائمًا على هذا الجهاز وتصبح قابلة للاستدعاء فورًا.</string>
+    <string name="forged_badge">مصنوعة ذاتيًا</string>
+    <string name="delete">حذف</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="api_key_label">مفتاح Gemini API</string>
+    <string name="api_key_helper">احصل على مفتاح مجاني من aistudio.google.com/apikey — يبقى على هذا الجهاز فقط.</string>
+    <string name="api_key_banner">أضف مفتاح Gemini المجاني لتشغيل الاتصال الحي بخوادم Google.</string>
+    <string name="add_key">إضافة المفتاح</string>
+    <string name="model_label">النموذج الأساسي</string>
+    <string name="model_helper">يُجرَّب أولًا (عبر المسار الرسمي). وإن لم يتوفر لمفتاحك، ينتقل التطبيق تلقائيًا إلى نماذج Flash حية أخرى.</string>
+    <string name="save">حفظ</string>
+    <string name="clear_conversation">مسح المحادثة</string>
+    <string name="clear_done">تم مسح المحادثة</string>
+    <string name="mic_permission_rationale">صلاحية المايكروفون مطلوبة للمحادثة الصوتية الحية. يمكنك أيضًا كتابة رسائلك.</string>
+    <string name="grant_permission">منح صلاحية المايكروفون</string>
+    <string name="empty_chat">قل مرحًا لعرفان — أو اطلب إيلينا بالاسم.</string>
+    <string name="note_tool_used">🔧 أُستخدمت أداة: %1$s</string>
+    <string name="note_tool_forged">⚒️ أُنشئت أداة جديدة: %1$s — تم التحقق والحفظ والتسجيل</string>
+    <string name="note_still_working">ما زلت أنجز المهمة السابقة…</string>
+    <string name="copied">تم النسخ</string>
+    <string name="artifact_chip">مُنتَج %1$d</string>
+    <string name="copy">نسخ</string>
+    <string name="close">إغلاق</string>
+    <string name="error_generic">مشكلة اتصال: %1$s</string>
+    <string name="error_key_missing">لا يوجد مفتاح API — افتح الإعدادات لإضافة واحد.</string>
+    <string name="speech_unavailable">التعرف الصوتي غير متوفر على هذا الجهاز — الكتابة تعمل بشكل كامل.</string>
+</resources>
